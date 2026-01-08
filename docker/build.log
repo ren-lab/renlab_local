@@ -1,0 +1,34 @@
+docker build -t bil022/renlab_website .
+#1 [internal] load build definition from Dockerfile
+#1 sha256:84d390285461126d7ed746d881a46213975fb0d70f325fba704c7c2f1ce6ffa4
+#1 transferring dockerfile: 1.03kB done
+#1 DONE 0.0s
+
+#2 [internal] load .dockerignore
+#2 sha256:5d79c761364398b67f357078bd675e76d26985beaa448d2862566e16637fcf5b
+#2 transferring context: 2B done
+#2 DONE 0.0s
+
+#3 [internal] load metadata for docker.io/jekyll/jekyll:latest
+#3 sha256:0188a97f14db3204d598245dbd3a2f986e4ab251a519fdac5dd14522c35905d4
+#3 DONE 0.9s
+
+#4 [1/2] FROM docker.io/jekyll/jekyll@sha256:400b8d1569f118bca8a3a09a25f32803b00a55d1ea241feaf5f904d66ca9c625
+#4 sha256:33c347386960a9e42ae65641151dafce691341b1c666f1896b272896433ff0c5
+#4 DONE 0.0s
+
+#5 [internal] load build context
+#5 sha256:685f80d8f7354a13cb221fd49c4af4e33a39319c2b8514f52241f68734b0928c
+#5 transferring context: 42B done
+#5 DONE 0.0s
+
+#6 [2/2] COPY docker-entrypoint.sh /usr/local/bin/
+#6 sha256:97957d2be7fb002f2a4c13413fb230ba3be8db6e4ae92cb078c56d70a67b0ebb
+#6 CACHED
+
+#7 exporting to image
+#7 sha256:e8c613e07b0b7ff33893b694f7759a10d42e180f2b4dc349fb57dc6b71dcab00
+#7 exporting layers done
+#7 writing image sha256:561e363e4dfda53b2ad2a07e43f2eaa78c6b3ce60ef75af2acdca337fa1cbdd9 done
+#7 naming to docker.io/bil022/renlab_website done
+#7 DONE 0.0s

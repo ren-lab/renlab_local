@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://renlab.sdsc.edu/renlab_website//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://renlab.sdsc.edu/renlab_website//assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>RENLAB</title>
+		<description>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</description>
+		<link>https://renlab.sdsc.edu/renlab_website//</link>
+		<atom:link href="https://renlab.sdsc.edu/renlab_website//feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Zhang_nmethods_2024</title>
+				<link>https://renlab.sdsc.edu/renlab_website//zhang_nmethods_2024/</link>
+				<pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;–	
+layout:	page
+title:	”A fast, scalable and versatile tool for analysis of single-cell omics data“
+breadcrumb: true	
+categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;publication
+    &lt;h2 id=&quot;publication-related-information&quot;&gt;publication related information&lt;/h2&gt;
+    &lt;p&gt;pub:	
+authors:	Kai Zhang, Nathan R Zemke, Ethan J Armand, Bing Ren&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;journal:	“Nature Methods”
+date:	2024
+doi:	https://doi.org/10.1038/s41592-023-02139-9
+abstract:	Single-cell omics technologies have revolutionized the study of gene regulation in complex tissues. A major computational challenge in analyzing these datasets is to project the large-scale and high dimensional data into low-dimensional space while retaining the relative relationships between cells in order to decompose the cellular heterogeneity and reconstruct cell-type-specific gene regulatory programs. Traditional dimensionality reduction techniques, however, face challenges in computational efficiency and in comprehensively addressing cellular diversity across varied molecular modalities. Here we introduce a nonlinear dimensionality reduction algorithm, embodied in the Python package SnapATAC2, which not only achieves a more precise capture of single-cell omics data heterogeneities but also ensures efficient runtime and memory usage, scaling linearly with the number of cells. Our algorithm demonstrates exceptional performance, scalability, and versatility across diverse single-cell omics datasets, including single-cell ATAC-seq, single-cell RNA-seq, single-cell Hi-C, and single-cell multiomics datasets, underscoring its utility in advancing single-cell analysis.
+–&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//zhang_nmethods_2024/</guid>
+			</item>
+		
+			<item>
+				<title>Kai Zhang&apos;s paper on a fast, scalable and versatile tool for analysis of single-cell omics data is published in Nature Methods!</title>
+				<link>https://renlab.sdsc.edu/renlab_website//news/zhang_nmethods_2024/</link>
+				<pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:	
+Single-cell omics technologies have revolutionized the study of gene regulation in complex tissues. A major computational challenge in analyzing these datasets is to project the large-scale and high dimensional data into low-dimensional space while retaining the relative relationships between cells in order to decompose the cellular heterogeneity and reconstruct cell-type-specific gene regulatory programs. Traditional dimensionality reduction techniques, however, face challenges in computational efficiency and in comprehensively addressing cellular diversity across varied molecular modalities. Here we introduce a nonlinear dimensionality reduction algorithm, embodied in the Python package SnapATAC2, which not only achieves a more precise capture of single-cell omics data heterogeneities but also ensures efficient runtime and memory usage, scaling linearly with the number of cells. Our algorithm demonstrates exceptional performance, scalability, and versatility across diverse single-cell omics datasets, including single-cell ATAC-seq, single-cell RNA-seq, single-cell Hi-C, and single-cell multiomics datasets, underscoring its utility in advancing single-cell analysis.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Full text can be accessed from the following &lt;a href=&quot;https://www.nature.com/articles/s41592-023-02139-9&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//news/zhang_nmethods_2024/</guid>
+			</item>
+		
+			<item>
+				<title>Zu_nature_2023</title>
+				<link>https://renlab.sdsc.edu/renlab_website//zu_nature_2023/</link>
+				<pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;–
+layout:	page
+title: “Single-cell analysis of chromatin accessibility in the adult mouse brain”
+breadcrumb: true	
+categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;publication
+    &lt;h2 id=&quot;publication-related-information&quot;&gt;publication related information&lt;/h2&gt;
+    &lt;p&gt;pub:	
+authors:	“Songpeng Zu&lt;em&gt;, Yang Eric Li&lt;/em&gt;, Kangli Wang*, Ethan Armand, Sainath Mamde, Maria Luisa Amaral, Yuelai Wang, Andre Chu, Yang Xie, Michael Miller, Jie Xu, Zhaoning Wang, Kai Zhang, Bojing Jia, Xiaomeng Hou, Lin Lin, Qian Yang, Seoyeon Lee, Bin Li, Samantha Kuan,  Hanqing Liu, Jingtian Zhou, Antonio Pinto-Duarte, Jacinta Lucero, Julia Osteen, Michael Nunn, Kimberly A. Smith, Bosiljka Tasic, Zizhen Yao, Hongkui Zeng, Zihan Wang, Jingbo Shang, M. Margarita Behrens, Joseph R. Ecker, Allen Wang, Sebastian Pressl &amp;amp; Bing Ren&lt;sup&gt;#&lt;/sup&gt;”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;journal:	“Nature”
+date:	2023
+doi:	https://doi.org/10.1038/s41586-023-06824-9
+abstract:	“Recent advances in single-cell technologies have led to the discovery of thousands of brain cell types; however, our understanding of the gene regulatory programs in these cell types is far from complete. Here we report a comprehensive atlas of candidate cis-regulatory DNA elements (cCREs) in the adult mouse brain, generated by analysing the chromatin accessibility in 2.3 million individual brain cells from 117 anatomical dissections. The atlas includes approximately 1 million cCREs and their chromatin accessibility across 1,482 distinct brain cell populations, adding over 446,000 new cCREs to the most recent such annotation in the mouse genome. The mouse brain cCREs are moderately conserved in the human brain. The mouse-specific cCREs-those identified from a subset of cortical excitatory neurons-are strongly enriched for transposable elements, suggesting a potential role for transposable elements in the emergence of new regulatory programs and neuronal diversity. Finally, we infer the gene regulatory networks in over 260 subclasses of mouse brain cells and develop deep learning models to predict the activities of gene regulatory elements in different brain cell types from the DNA sequence alone. Our results provide a resource for the analysis of cell-type-specific gene regulation programs in both mouse and human brains.”
+–&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//zu_nature_2023/</guid>
+			</item>
+		
+			<item>
+				<title>Songpeng Zu,  Yang Eric Li and Kangli Wang&apos;s single-cell anlaysis of chromatin accessibility in the adult mouse brain paper is published in Nature!</title>
+				<link>https://renlab.sdsc.edu/renlab_website//news/zu_nature_2023/</link>
+				<pubDate>Thu, 14 Dec 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:	
+abstract: “Recent advances in single-cell technologies have led to the discovery of thousands of brain cell types; however, our understanding of the gene regulatory programs in these cell types is far from complete. Here we report a comprehensive atlas of candidate cis-regulatory DNA elements (cCREs) in the adult mouse brain, generated by analysing the chromatin accessibility in 2.3 million individual brain cells from 117 anatomical dissections. The atlas includes approximately 1 million cCREs and their chromatin accessibility across 1,482 distinct brain cell populations, adding over 446,000 new cCREs to the most recent such annotation in the mouse genome. The mouse brain cCREs are moderately conserved in the human brain. The mouse-specific cCREs-those identified from a subset of cortical excitatory neurons-are strongly enriched for transposable elements, suggesting a potential role for transposable elements in the emergence of new regulatory programs and neuronal diversity. Finally, we infer the gene regulatory networks in over 260 subclasses of mouse brain cells and develop deep learning models to predict the activities of gene regulatory elements in different brain cell types from the DNA sequence alone. Our results provide a resource for the analysis of cell-type-specific gene regulation programs in both mouse and human brains.”&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Full text can be accessed from the following &lt;a href=&quot;https://doi.org/10.1038/s41586-023-06824-9&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//news/zu_nature_2023/</guid>
+			</item>
+		
+			<item>
+				<title>Zemke_nature_2023</title>
+				<link>https://renlab.sdsc.edu/renlab_website//zemke_nature_2023/</link>
+				<pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;–	
+layout:	page
+title:	“Conserved and divergent gene regulatory programs of the mammalian neocortex”
+breadcrumb: true	
+categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;publication
+    &lt;h2 id=&quot;publication-related-information&quot;&gt;publication related information&lt;/h2&gt;
+    &lt;p&gt;pub:	
+authors:	Nathan R. Zemke, Ethan J. Armand, Wenliang Wang, Seoyeon Lee, Jingtian Zhou, Yang Eric Li, Hanqing Liu, Wei Tian, Joseph R. Nery, Rosa G. Castanon, Anna Bartlett, Julia K. Osteen, Daofeng Li, Xiaoyu Zhuo, Vincent Xu, Lei Chang, Keyi Dong, Hannah S. Indralingam, Jonathan A. Rink, Yang Xie, Michael Miller, Fenna M. Krienen, Qiangge Zhang, Naz Taskin, Jonathan Ting, Guoping Feng, Steven A. McCarroll, Edward M. Callaway, Ting Wang, Ed S. Lein, M. Margarita Behrens, Joseph R. Ecker &amp;amp; Bing Ren&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;journal:	“Nature”
+date:	2023
+doi:	https://doi.org/10.1038/s41586-023-06819-6
+abstract:	Divergence of cis-regulatory elements drives species-specific traits, but how this manifests in the evolution of the neocortex at the molecular and cellular level remains unclear. Here we investigated the gene regulatory programs in the primary motor cortex of human, macaque, marmoset and mouse using single-cell multiomics assays, generating gene expression, chromatin accessibility, DNA methylome and chromosomal conformation profiles from a total of over 200,000 cells. From these data, we show evidence that divergence of transcription factor expression corresponds to species-specific epigenome landscapes. We find that conserved and divergent gene regulatory features are reflected in the evolution of the three-dimensional genome. Transposable elements contribute to nearly 80% of the human-specific candidate cis-regulatory elements in cortical cells. Through machine learning, we develop sequence-based predictors of candidate cis-regulatory elements in different species and demonstrate that the genomic regulatory syntax is highly preserved from rodents to primates. Finally, we show that epigenetic conservation combined with sequence similarity helps to uncover functional cis-regulatory elements and enhances our ability to interpret genetic variants contributing to neurological disease and traits.
+–&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//zemke_nature_2023/</guid>
+			</item>
+		
+			<item>
+				<title>Nathan Zemke&apos;s and Ethan Armand&apos;s paper on comparative analysis of gene regulatory programs in mammalian primary motor cortex is published in Nature!</title>
+				<link>https://renlab.sdsc.edu/renlab_website//news/zemke_nature_2023/</link>
+				<pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:	
+Divergence of cis-regulatory elements drives species-specific traits, but how this manifests in the evolution of the neocortex at the molecular and cellular level remains unclear. Here we investigated the gene regulatory programs in the primary motor cortex of human, macaque, marmoset and mouse using single-cell multiomics assays, generating gene expression, chromatin accessibility, DNA methylome and chromosomal conformation profiles from a total of over 200,000 cells. From these data, we show evidence that divergence of transcription factor expression corresponds to species-specific epigenome landscapes. We find that conserved and divergent gene regulatory features are reflected in the evolution of the three-dimensional genome. Transposable elements contribute to nearly 80% of the human-specific candidate cis-regulatory elements in cortical cells. Through machine learning, we develop sequence-based predictors of candidate cis-regulatory elements in different species and demonstrate that the genomic regulatory syntax is highly preserved from rodents to primates. Finally, we show that epigenetic conservation combined with sequence similarity helps to uncover functional cis-regulatory elements and enhances our ability to interpret genetic variants contributing to neurological disease and traits.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Full text can be accessed from the following &lt;a href=&quot;https://www.nature.com/articles/s41586-023-06819-6&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//news/zemke_nature_2023/</guid>
+			</item>
+		
+			<item>
+				<title>Yang_science_2023 Paper</title>
+				<link>https://renlab.sdsc.edu/renlab_website//yang_science_2023-paper/</link>
+				<pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;–	
+layout:	page
+title	“A comparative atlas of single-cell chromatin accessibility in the human brain”
+breadcrumb: true	
+categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;publication
+    &lt;h2 id=&quot;publication-related-information&quot;&gt;publication related information&lt;/h2&gt;
+    &lt;p&gt;pub:	
+authors:	“Yang Eric Li, Sebastian Preissl, Michael Miller, Nicholas D. Johnson, Zihan Wang, Henry Jiao, Chenxu Zhu, Zhaoning Wang, Yang Xie, Olivier Poirion, Colin Kern, Antonio Pinto-Duarte, Wei Tian, Kimberly Siletti, Nora Emerson, Julia Osteen, Jacinta Lucero, Lin Lin, Qian Yang, Quan Zhu, Sarah Espinoza, Anna Marie Yanny, Julie Nyhus, Nick Dee, Tamara Casper, Nadiya Shapovalova, Daniel Hirschstein, Rebecca D. Hodge, Sten Linnarsson, Trygve Bakken, Boaz Levi, C. Dirk Keene, Jingbo Shang, Ed S. Lein, Allen Wang, M. Margarita Behrens, Joseph R. Ecker, and Bing Ren&lt;sup&gt;#&lt;/sup&gt;”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;journal:	“Science”
+date:	2022
+doi:	10.1126/science.adf7044
+abstract:	“Recent advances in single-cell transcriptomics have illuminated the diverse neuronal and glial cell types within the human brain. However, the regulatory programs governing cell identity and function remain unclear. Using a single-nucleus assay for transposase-accessible chromatin using sequencing (ATAC-seq), we explored open chromatin landscapes across 1.1 million cells in 42 brain regions from three adults. Integrating this data unveiled 107 distinct cell types and their specific utilization of 544,735 candidate cis-regulatory DNA elements (cCREs) in the human genome. Nearly a third of the cCREs demonstrated conservation and chromatin accessibility in the mouse brain cells. We reveal strong links between specific brain cell types and neuropsychiatric disorders including schizophrenia, bipolar disorder, Alzheimer’s disease (AD), and major depression, and have developed deep learning models to predict the regulatory roles of noncoding risk variants in these disorders.”
+–&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//yang_science_2023-paper/</guid>
+			</item>
+		
+			<item>
+				<title>Yang&apos;s human brain snATAC-seq paper is published in Science!</title>
+				<link>https://renlab.sdsc.edu/renlab_website//news/yang_science_2023-paper/</link>
+				<pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:
+abstract:	“Recent advances in single-cell transcriptomics have illuminated the diverse neuronal and glial cell types within the human brain. However, the regulatory programs governing cell identity and function remain unclear. Using a single-nucleus assay for transposase-accessible chromatin using sequencing (ATAC-seq), we explored open chromatin landscapes across 1.1 million cells in 42 brain regions from three adults. Integrating this data unveiled 107 distinct cell types and their specific utilization of 544,735 candidate cis-regulatory DNA elements (cCREs) in the human genome. Nearly a third of the cCREs demonstrated conservation and chromatin accessibility in the mouse brain cells. We reveal strong links between specific brain cell types and neuropsychiatric disorders including schizophrenia, bipolar disorder, Alzheimer’s disease (AD), and major depression, and have developed deep learning models to predict the regulatory roles of noncoding risk variants in these disorders.”&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Full text can be accessed from the following &lt;a href=&quot;https://doi.org/10.1126/science.adf7044&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//news/yang_science_2023-paper/</guid>
+			</item>
+		
+			<item>
+				<title>Yang_nsmb_2023</title>
+				<link>https://renlab.sdsc.edu/renlab_website//yang_nsmb_2023/</link>
+				<pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;–
+layout:	page
+title:	“Droplet-based single-cell joint profiling of histone modifications and transcriptomes”
+breadcrumb: true	
+categories:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;publication
+    &lt;h2 id=&quot;publication-related-information&quot;&gt;publication related information&lt;/h2&gt;
+    &lt;p&gt;pub:	
+authors:	“Yang Xie, Chenxu Zhu, Zhaoning Wang, Melodi Tastemel, Lei Chang, Yang Eric Li &amp;amp; Bing Ren&lt;sup&gt;#&lt;/sup&gt;”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;journal:	“Nature Structural &amp;amp; Molecular Biology”
+date:	2022
+doi:	https://doi.org/10.1038/s41594-023-01060-1
+abstract:	“We previously reported Paired-Tag, a combinatorial indexing-based method that can simultaneously map histone modifications and gene expression at single-cell resolution at scale. However, the lengthy procedure of Paired-Tag has hindered its general adoption in the community. To address this bottleneck, we developed a droplet-based Paired-Tag protocol that is faster and more accessible than the previous method. Using cultured mammalian cells and primary brain tissues, we demonstrate its superior performance at identifying candidate cis-regulatory elements and associating their dynamic chromatin state to target gene expression in each constituent cell type in a complex tissue.”
+–&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//yang_nsmb_2023/</guid>
+			</item>
+		
+			<item>
+				<title>Yang Xie &amp; Chenxu Zhu&apos;s Droplet Paired-Tag paper is published in NSMB!</title>
+				<link>https://renlab.sdsc.edu/renlab_website//news/YangXie-paper/</link>
+				<pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;b&gt;Abstract&lt;/b&gt;:
+	“We previously reported Paired-Tag, a combinatorial indexing-based method that can simultaneously map histone modifications and gene expression at single-cell resolution at scale. However, the lengthy procedure of Paired-Tag has hindered its general adoption in the community. To address this bottleneck, we developed a droplet-based Paired-Tag protocol that is faster and more accessible than the previous method. Using cultured mammalian cells and primary brain tissues, we demonstrate its superior performance at identifying candidate cis-regulatory elements and associating their dynamic chromatin state to target gene expression in each constituent cell type in a complex tissue.”&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Full text can be accessed from the following &lt;a href=&quot;https://doi.org/10.1038/s41594-023-01060-1&quot;&gt;link&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+				<guid isPermaLink="true">https://renlab.sdsc.edu/renlab_website//news/YangXie-paper/</guid>
+			</item>
+		
+	</channel>
+</rss>
